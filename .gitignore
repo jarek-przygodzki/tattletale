@@ -15,3 +15,10 @@ reports/
 # Annoying tilde's from GEdit
 *~
 
+# Ignore files created by Maven when building
+target/
+
+# Eclipse
+.classpath
+.project
+.settings/
